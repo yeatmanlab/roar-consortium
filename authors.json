@@ -7,5 +7,14 @@
         "github": "richford",
         "role": "Director of Technology and Innovation",
         "website": "http://richiehalford.org"
-    }
+    },
+    {
+    "name": "Montville, Kyle",
+    "affiliation": "Stanford University",
+    "email": "kmontvil@stanford.edu",
+    "orcid": "0000-0001-9276-9084",
+    "github": "ksmontville",
+    "role": "Web Developer for Yeatman Lab",
+    "website": "https://kylemontville.dev"
+}
 ]
