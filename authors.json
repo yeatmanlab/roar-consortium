@@ -1,5 +1,14 @@
 [
     {
+        "name": "Montville, Kyle",
+        "affiliation": "Stanford University",
+        "email": "kmontvil@stanford.edu",
+        "orcid": "0009-0006-4724-5015",
+        "github": "ksmontville",
+        "role": "Web Developer for Yeatman Lab",
+        "website": "https://kylemontville.dev"
+    },
+    {
         "name": "Richie-Halford, Adam",
         "affiliation": "Stanford University",
         "email": "adamrh@stanford.edu",
@@ -15,5 +24,23 @@
         "orcid": "0009-0003-0453-2549",
         "github": "kellyel",
         "role": "Software Developer",
-    }
+    },
+    {
+        "name": "Song, Lucas",
+        "affiliation": "Stanford University",
+        "email": "lmfg@stanford.edu",
+        "orcid": "0009-0007-9799-2008",
+        "github": "lucasxsong",
+        "role": "Software Developer",
+        "website": "https://lmfg.org"
+    },
+    {
+        "name": "Arteaga Garcia, Emily",
+        "affiliation": "Stanford University",
+        "email": "emilyag@stanford.edu",
+        "orcid": "0009-0005-1070-3759",
+        "github": "Emily-ejag",
+        "role": "Software Developer",
+        "website": "emilyarteaga.com"
+    },
 ]
