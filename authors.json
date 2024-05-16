@@ -7,5 +7,14 @@
         "github": "richford",
         "role": "Director of Technology and Innovation",
         "website": "http://richiehalford.org"
+    },
+    {
+        "name": "Song, Lucas",
+        "affiliation": "Stanford University",
+        "email": "lmfg@stanford.edu",
+        "orcid": "0009-0007-9799-2008",
+        "github": "lucasxsong",
+        "role": "Software Developer",
+        "website": "https://lmfg.org"
     }
 ]
