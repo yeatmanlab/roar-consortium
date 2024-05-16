@@ -7,5 +7,13 @@
         "github": "richford",
         "role": "Director of Technology and Innovation",
         "website": "http://richiehalford.org"
+    },
+    {
+        "name": "Kelly, Elijah",
+        "affiliation": "Stanford University",
+        "email": "kellyel@stanford.edu",
+        "orcid": "0009-0003-0453-2549",
+        "github": "kellyel",
+        "role": "Software Developer",
     }
 ]
