@@ -1,0 +1,26 @@
+name: Validate authors.json
+
+on:
+  pull_request:
+    paths:
+      - 'authors.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Validate authors.json
+      run: python scripts/validate_authors.py

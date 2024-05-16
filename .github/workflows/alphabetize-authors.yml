@@ -1,0 +1,36 @@
+name: Alphabetize Authors
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  alphabetize:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Alphabetize authors
+      run: python scripts/alphabetize_authors.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add authors.json
+        git commit -m "Alphabetize authors in authors.json"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
