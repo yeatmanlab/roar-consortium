@@ -1,5 +1,22 @@
 [
     {
+        "name": "Arteaga Garcia, Emily",
+        "affiliation": "Stanford University",
+        "email": "emilyag@stanford.edu",
+        "orcid": "0009-0005-1070-3759",
+        "github": "Emily-ejag",
+        "role": "Software Developer",
+        "website": "emilyarteaga.com"
+    },
+    {
+        "name": "Kelly, Elijah",
+        "affiliation": "Stanford University",
+        "email": "kellyel@stanford.edu",
+        "orcid": "0009-0003-0453-2549",
+        "github": "kellyel",
+        "role": "Software Developer"
+    },
+    {
         "name": "Montville, Kyle",
         "affiliation": "Stanford University",
         "email": "kmontvil@stanford.edu",
@@ -18,14 +35,6 @@
         "website": "http://richiehalford.org"
     },
     {
-        "name": "Kelly, Elijah",
-        "affiliation": "Stanford University",
-        "email": "kellyel@stanford.edu",
-        "orcid": "0009-0003-0453-2549",
-        "github": "kellyel",
-        "role": "Software Developer",
-    },
-    {
         "name": "Song, Lucas",
         "affiliation": "Stanford University",
         "email": "lmfg@stanford.edu",
@@ -33,14 +42,5 @@
         "github": "lucasxsong",
         "role": "Software Developer",
         "website": "https://lmfg.org"
-    },
-    {
-        "name": "Arteaga Garcia, Emily",
-        "affiliation": "Stanford University",
-        "email": "emilyag@stanford.edu",
-        "orcid": "0009-0005-1070-3759",
-        "github": "Emily-ejag",
-        "role": "Software Developer",
-        "website": "emilyarteaga.com"
-    },
+    }
 ]
