@@ -1,29 +1,29 @@
 [
-  {
-    "name": "Richie-Halford, Adam",
-    "affiliation": "Stanford University",
-    "email": "adamrh@stanford.edu",
-    "orcid": "0000-0001-9276-9084",
-    "github": "richford",
-    "role": "Director of Technology and Innovation",
-    "website": "http://richiehalford.org"
-  },
-  {
-    "name": "Montville, Kyle",
-    "affiliation": "Stanford University",
-    "email": "kmontvil@stanford.edu",
-    "orcid": "0000-0001-9276-9084",
-    "github": "ksmontville",
-    "role": "Web Developer for Yeatman Lab",
-    "website": "https://kylemontville.dev"
-  },
-  { 
-    "name": "Song, Lucas",
-    "affiliation": "Stanford University",
-    "email": "lmfg@stanford.edu",
-    "orcid": "0009-0007-9799-2008",
-    "github": "lucasxsong",
-    "role": "Software Developer",
-    "website": "https://lmfg.org"
-  }
+    {
+        "name": "Montville, Kyle",
+        "affiliation": "Stanford University",
+        "email": "kmontvil@stanford.edu",
+        "orcid": "0000-0001-9276-9084",
+        "github": "ksmontville",
+        "role": "Web Developer for Yeatman Lab",
+        "website": "https://kylemontville.dev"
+    },
+    {
+        "name": "Richie-Halford, Adam",
+        "affiliation": "Stanford University",
+        "email": "adamrh@stanford.edu",
+        "orcid": "0000-0001-9276-9084",
+        "github": "richford",
+        "role": "Director of Technology and Innovation",
+        "website": "http://richiehalford.org"
+    },
+    {
+        "name": "Song, Lucas",
+        "affiliation": "Stanford University",
+        "email": "lmfg@stanford.edu",
+        "orcid": "0009-0007-9799-2008",
+        "github": "lucasxsong",
+        "role": "Software Developer",
+        "website": "https://lmfg.org"
+    }
 ]
