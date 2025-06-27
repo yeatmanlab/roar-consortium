@@ -51,5 +51,14 @@
         "github": "lucasxsong",
         "role": "Software Developer",
         "website": "https://lmfg.org"
+    },
+    {
+        "name": "Yeung, Amy",
+        "affiliation": "Stanford University",
+        "email": "ayeung21@stanford.edu",
+        "orcid": "0009-0000-4234-3325",
+        "github": "amyyeung17",
+        "role": "Web Developer",
+        "website": "https://www.ayeung.me"
     }
 ]
